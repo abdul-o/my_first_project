@@ -1,0 +1,6 @@
+MY GOALS FOR LEARNING PROGRAMMING
+
+# Develop dynamic, database-driven websites.
+# Handle user authentication, data storage, and business logic.
+# Create RESTful and GraphQL APIs for web and mobile applications.
+# Enable communication between the frontend and backend
